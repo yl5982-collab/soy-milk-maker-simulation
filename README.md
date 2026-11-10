@@ -20,3 +20,8 @@ Function/Cancel intentionally reproduces the user's report that a press during p
 
 Keep Version 1 separate. Version 2 can add sequential guided weighing, outcome-based texture selection, expandable explanations, explicit Start/Stop, and saved preferences. No redesign behavior is claimed as part of the original device.
 
+
+## Version 2 redesign
+
+The [Version 2 redesign](version-2/) adds guided weighing, texture choices, expandable explanations, explicit Start/Stop, and saved preferences. Open version-2/dist/index.html or run node version-2/server.cjs. The original simulation remains in dist/.
+
